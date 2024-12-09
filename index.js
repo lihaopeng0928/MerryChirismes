@@ -38,8 +38,8 @@ let select = (s) => document.querySelector(s),
   baubleArray = [],
   woodColor = "#A63C06",
   treeColor = "#0F7173",
-  subm1Str = "MOVE YOUR MOUSE TO FILL",
-  subm2Str = "THE TREE WITH COLOUR!",
+  subm1Str = "移动手指填充",
+  subm2Str = "把树填满颜色！",
   followerVX = 0,
   followerVY = 0;
 
